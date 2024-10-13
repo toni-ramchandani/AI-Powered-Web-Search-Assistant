@@ -12,7 +12,7 @@ This project demonstrates how to create an AI-powered web search assistant using
 
 ## Demo
 
-![AI Web Search Assistant Screenshot]
+![AI Web Search Assistant Screenshot](appDemo.jpg)
 
 ## Requirements
 
